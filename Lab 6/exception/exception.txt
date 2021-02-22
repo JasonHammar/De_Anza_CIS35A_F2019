@@ -1,0 +1,28 @@
+java.lang.NullPointerException
+	at util.FileIO.readFile(FileIO.java:83)
+	at exception.StudentGradingException.logException(StudentGradingException.java:17)
+	at driver.Driver1.main(Driver1.java:11)
+java.lang.NullPointerException
+	at util.FileIO.readFile(FileIO.java:91)
+	at exception.StudentGradingException.logException(StudentGradingException.java:17)
+	at driver.Driver1.main(Driver1.java:11)
+java.lang.NullPointerException
+	at util.FileIO.readFile(FileIO.java:92)
+	at exception.StudentGradingException.logException(StudentGradingException.java:17)
+	at driver.Driver1.main(Driver1.java:11)
+java.lang.NullPointerException
+	at util.FileIO.readFile(FileIO.java:92)
+	at exception.StudentGradingException.logException(StudentGradingException.java:17)
+	at driver.Driver1.main(Driver1.java:11)
+java.lang.NullPointerException
+	at util.FileIO.readFile(FileIO.java:93)
+	at exception.StudentGradingException.logException(StudentGradingException.java:17)
+	at driver.Driver1.main(Driver1.java:11)
+java.lang.NullPointerException
+	at util.FileIO.readFile(FileIO.java:93)
+	at exception.StudentGradingException.logException(StudentGradingException.java:17)
+	at driver.Driver1.main(Driver1.java:11)
+java.lang.NullPointerException
+	at util.FileIO.readFile(FileIO.java:93)
+	at exception.StudentGradingException.logException(StudentGradingException.java:17)
+	at driver.Driver1.main(Driver1.java:11)
